@@ -31,8 +31,6 @@ public class FollowScreen implements Screen {
         //get mouse position
         Vector3 mousePosition = new Vector3(Gdx.input.getX(), Gdx.input.getY(), 0);
 
-        System.out.println(Gdx.input.getX());
-
         //transform it to world/camera
         camera.unproject(mousePosition);
 

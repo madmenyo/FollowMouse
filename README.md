@@ -11,3 +11,6 @@ public class YourProject extends Game {
 	}
 }
 ```
+
+Here is a image to visualize what I do in this example:
+![vector math](http://i.imgur.com/Ah6UhVQ.png)

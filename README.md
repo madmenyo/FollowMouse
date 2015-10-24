@@ -14,3 +14,5 @@ public class YourProject extends Game {
 
 Here is a image to visualize what I do in this example:
 ![vector math](http://i.imgur.com/Ah6UhVQ.png)
+
+You can change the texture to anything you want, perhaps an arrow so it actually represents an arrow. Now it's BadLogic vs Mouse.
